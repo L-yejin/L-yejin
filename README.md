@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 자격증
 |취득 연도|자격증|주관|유효기간|
 |--------|------|---|-------|
-|2022|ADsP|한국데이터산업진흥원|영구|
+|2023.03|ADsP|한국데이터산업진흥원|영구|
 
 ## 학회 활동
 [D&A](https://github.com/L-yejin/2022_DnA)
